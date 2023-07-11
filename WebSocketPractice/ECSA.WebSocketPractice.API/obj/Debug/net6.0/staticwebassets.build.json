@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "akvmAM0Nx046apOyzvNDFvLc+jvA8jzt5c0m/Xs3qvE=",
+  "Source": "ECSA.WebSocketPractice.API",
+  "BasePath": "_content/ECSA.WebSocketPractice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

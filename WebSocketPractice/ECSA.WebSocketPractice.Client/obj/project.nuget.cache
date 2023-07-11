@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGVVZhTzcr5dEDp4FgHZNVzjIh7gcJyulJD+S/rAGomyoC1fevXT8cvj+9wxYDAvyanRz0ggXrW5yo1uspJQcw==",
+  "success": true,
+  "projectFilePath": "D:\\source\\projects\\tutorials\\EseasyCSAcademy\\WebSocketPractice\\ECSA.WebSocketPractice.Client\\ECSA.WebSocketPractice.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sam\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.6\\microsoft.aspnetcore.spaservices.extensions.5.0.6.nupkg.sha512",
+    "C:\\Users\\sam\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sam\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\sam\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\sam\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

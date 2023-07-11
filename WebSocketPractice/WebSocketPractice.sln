@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECSA.ReactCore", "ECSA.ReactCore\ECSA.ReactCore.csproj", "{7172029F-0378-4C00-B44F-7E1FF62B256D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECSA.WebSocketPractice.Server", "ECSA.WebSocketPractice.Server\ECSA.WebSocketPractice.Server.csproj", "{25B1C2D1-1156-4E8A-BE06-01DBE968C1A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECSA.WebSocketPractice.API", "ECSA.WebSocketPractice.API\ECSA.WebSocketPractice.API.csproj", "{9F0ADD41-9317-4E42-B5B7-55548B4BFFEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECSA.WebSocketPractice.Client", "ECSA.WebSocketPractice.Client\ECSA.WebSocketPractice.Client.csproj", "{E5CFF631-35B8-489A-BE3B-0685F839B899}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECSA.WebSocketPractice.ClientConsoleApp", "ECSA.WebSocketPractice.ClientConsoleApp\ECSA.WebSocketPractice.ClientConsoleApp.csproj", "{154E8E00-8E8A-4C37-A0EF-5574E12380A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECSA.SignalR.API", "ECSA.SignalR.API\ECSA.SignalR.API.csproj", "{1CF030E6-0C64-4DC1-9481-98C03199BF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7172029F-0378-4C00-B44F-7E1FF62B256D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7172029F-0378-4C00-B44F-7E1FF62B256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7172029F-0378-4C00-B44F-7E1FF62B256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7172029F-0378-4C00-B44F-7E1FF62B256D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B1C2D1-1156-4E8A-BE06-01DBE968C1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B1C2D1-1156-4E8A-BE06-01DBE968C1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B1C2D1-1156-4E8A-BE06-01DBE968C1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B1C2D1-1156-4E8A-BE06-01DBE968C1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0ADD41-9317-4E42-B5B7-55548B4BFFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0ADD41-9317-4E42-B5B7-55548B4BFFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0ADD41-9317-4E42-B5B7-55548B4BFFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0ADD41-9317-4E42-B5B7-55548B4BFFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CFF631-35B8-489A-BE3B-0685F839B899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CFF631-35B8-489A-BE3B-0685F839B899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CFF631-35B8-489A-BE3B-0685F839B899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CFF631-35B8-489A-BE3B-0685F839B899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154E8E00-8E8A-4C37-A0EF-5574E12380A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154E8E00-8E8A-4C37-A0EF-5574E12380A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154E8E00-8E8A-4C37-A0EF-5574E12380A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154E8E00-8E8A-4C37-A0EF-5574E12380A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF030E6-0C64-4DC1-9481-98C03199BF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF030E6-0C64-4DC1-9481-98C03199BF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF030E6-0C64-4DC1-9481-98C03199BF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF030E6-0C64-4DC1-9481-98C03199BF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E985507-743F-4EE6-8EFE-6326E7954501}
+	EndGlobalSection
+EndGlobal

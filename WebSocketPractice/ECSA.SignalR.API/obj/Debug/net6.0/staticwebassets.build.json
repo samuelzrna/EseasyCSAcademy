@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "whURL3cXcvJZDgiFWPjeJFUBByTSKQQBLkf1BG1G0zk=",
+  "Source": "ECSA.SignalR.API",
+  "BasePath": "_content/ECSA.SignalR.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

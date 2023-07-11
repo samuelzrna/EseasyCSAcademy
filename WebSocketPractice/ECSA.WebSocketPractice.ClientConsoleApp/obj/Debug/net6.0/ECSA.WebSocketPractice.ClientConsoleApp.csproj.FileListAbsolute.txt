@@ -1,0 +1,15 @@
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.csproj.AssemblyReference.cache
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.AssemblyInfoInputs.cache
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.AssemblyInfo.cs
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.csproj.CoreCompileInputs.cache
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\bin\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.exe
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\bin\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.deps.json
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\bin\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.runtimeconfig.json
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\bin\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.dll
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\bin\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.pdb
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.dll
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\refint\ECSA.WebSocketPractice.ClientConsoleApp.dll
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.pdb
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ECSA.WebSocketPractice.ClientConsoleApp.genruntimeconfig.cache
+D:\source\projects\tutorials\EseasyCSAcademy\WebSocketPractice\ECSA.WebSocketPractice.ClientConsoleApp\obj\Debug\net6.0\ref\ECSA.WebSocketPractice.ClientConsoleApp.dll
