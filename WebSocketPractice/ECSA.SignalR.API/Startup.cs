@@ -25,6 +25,7 @@ namespace ECSA.SignalR.API
       services.AddSingleton<ClockHub>();
       services.AddSingleton<POSImageHub>();
       services.AddSingleton<ChatHub>();
+      services.AddSingleton<DisplaySyncHub>();
       // internal layer dependency injection
       services.AddControllers();
       services.AddSwaggerGen(c =>
@@ -56,6 +57,7 @@ namespace ECSA.SignalR.API
           endpoints.MapHub<ClockHub>("/clockhub");
           endpoints.MapHub<POSImageHub>("/posImageHub");
           endpoints.MapHub<ChatHub>("/hubs/chat");
+          endpoints.MapHub<DisplaySyncHub>("/displaySync");
         });
       }
       catch (Exception ex)

@@ -1,0 +1,139 @@
+/* Normalize body and html for consistent layout */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Ensure the root container takes up the full available width and height of the window */
+#root {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Style the image container */
+.image-container {
+}
+
+  /* Style the image to fit its container and maintain the aspect ratio */
+  .image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* This will maintain the aspect ratio */
+  }
+
+.newspaper {
+  animation: growIntoFrame 1.5s forwards;
+}
+
+@keyframes growIntoFrame {
+  0% {
+    transform: scale(0) rotate(0deg);
+  }
+
+  100% {
+    transform: scale(1) rotate(720deg);
+  }
+}
+
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ring {
+  border: 0px solid transparent;
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  animation: expand 2s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+}
+
+
+@keyframes expand {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(22);
+    opacity: 0.5;
+  }
+}
+
+@keyframes expand {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(22);
+  }
+}
+
+.ring1 {
+  color: #ed1c22;
+  animation-delay: 1s;
+}
+
+.ring2 {
+  background-color: #b21b46;
+  animation-delay: 1.25s;
+}
+
+.ring3 {
+  background-color: #761a65;
+  animation-delay: 1.5s;
+}
+
+.ring4 {
+  background-color: #3b1989;
+  animation-delay: 1.75s;
+}
+
+/*.ring5 {
+  background-color: #0018a9;
+  animation-delay: 2s;
+}*/
+
+.ring6 {
+  border: 0px solid transparent;
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background-color: white;
+  animation: expand1 2s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+  animation-delay: 2s; /* Delay the animation start by 4 seconds */
+}
+
+.translucent {
+  opacity: 0;
+}
+
+.opaque {
+  opacity: 1;
+}

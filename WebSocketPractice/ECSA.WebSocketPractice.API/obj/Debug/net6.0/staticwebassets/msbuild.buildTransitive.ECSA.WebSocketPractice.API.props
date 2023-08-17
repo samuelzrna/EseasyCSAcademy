@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ECSA.WebSocketPractice.API.props" />
-</Project>

@@ -1,0 +1,27 @@
+﻿.donut-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.donut {
+  width: 200px;
+  height: 200px;
+  background: conic-gradient( from 0deg, transparent 110deg, #ff7f50 0 250deg, transparent 0 );
+  border: 20px solid transparent;
+  border-top-color: #ff7f50;
+  border-radius: 50%;
+  position: relative;
+}
+
+  .donut:before {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: conic-gradient( from 0deg, transparent 90deg, #f0f0f0 0 270deg, transparent 0 );
+    border-radius: 50%;
+    top: 50px;
+    left: 50px;
+  }
